@@ -1,10 +1,10 @@
 {
   "name": "vscode-readme-pattern",
-  "displayName": "Readme Pattern",
+  "displayName": "Readme Pattern [modified]",
   "description": "A VSCode extension that generates README.md files",
-  "version": "1.3.0",
-  "publisher": "thomascsd",
-  "author": "Thomas Chang",
+  "version": "1.3.1",
+  "publisher": "halbertn",
+  "author": "Hal Nakagawa",
   "license": "MIT",
   "engines": {
     "vscode": "^1.37.0"
@@ -63,7 +63,10 @@
     "@types/node": "^10.12.21",
     "@types/vscode": "^1.37.0",
     "tslint": "^6.1.3",
-    "typescript": "^3.5.3",
+    "typescript": "^3.9.10",
     "vscode-test": "^1.2.0"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
   }
 }

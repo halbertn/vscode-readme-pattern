@@ -1,4 +1,6 @@
 # Change Log
+## [1.3.1]
+- added new template markdown: Python_Module.md
 
 ## [1.2.0]
 
